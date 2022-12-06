@@ -1,6 +1,6 @@
 import numpy as np
 def main():
-    with open('input.txt') as f:
+    with open('1\input.txt') as f:
         lines = f.readlines()
         x = 0
         max = [0,0,0]
