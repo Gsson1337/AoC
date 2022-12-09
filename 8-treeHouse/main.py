@@ -9,6 +9,7 @@ def main():
             trees.append(row)
         visible = 0
         maximumSeeTrees = 0
+        
         for row in range(0, len(trees)):
             for col in range(0, len(trees[0])-1):
 
